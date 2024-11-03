@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    position: relative;
+}
+.carta {
+    display: inline-block;
+    border: 1px solid #ff0000;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 20px;
+    background-color: #a8ccfa; 
+    position: absolute;
+    top: 100%;
+    left: 40%;
+    
+}
+
+.carta p {
+    font-weight: bold;
+    color: rgb(231, 41, 41);
+}
